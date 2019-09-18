@@ -26,8 +26,8 @@ along my career path. In order to reach it, I am constantly improving myself thr
 
 <center><h2 style="color: #ffaa80;">Software Developer, Cloud Apps	|	Autodesk</h2></center>
 <center><h3 style="text-align: right; color: #bfbfbf;"><i>Sept. 2018 - Dec. 2018</i></h3></center>
-<p>Autodesk is a reputable company among the designign industry, mostly because its flagship product AutoCAD. I was workign on a product called Fusion Lifecycle, which is a
-project management tool that aims to help different departments from manufactures work more efficiently and allows that make change orders more easily. My works mostly contributed in three areas: cleaning up technical debts, implementing various UI features, and introduced the first React component within the AngularJS based application and lay down ground works for future framework transition.</p>
+<p>Autodesk is a reputable company among the designing industry, mostly because its flagship product AutoCAD. I was working on a product called Fusion Lifecycle, which is a
+project management tool that aims to help different departments from manufactures work more efficiently and allows them to make change orders more easily. My works mostly contributed in three areas: cleaning up technical debts, implementing various UI features, and introduced the first React component within the AngularJS based application and lay down ground works for future framework transition.</p>
 
 <center><h2 style="color: #ffaa80;">Software Developer, Trading Products	|	Bank of Montreal</h2></center>
 <center><h3 style="text-align: right; color: #bfbfbf;"><i>Sept. 2017 - Dec. 2017</i></h3></center>
